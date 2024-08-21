@@ -1,5 +1,5 @@
 # QUEUE-OPERATION-USING-C-PROGRAMMING
-The Queue Operation project demonstrates how to manage a queue data structure in C, utilizing both singly linked lists (SLL) and doubly linked lists (DLL). Users can perform essential queue operations and explore the differences between these two implementations.
+The Queue Operation project demonstrates how to manage a queue data structure in C, utilizing both singly linked lists (SLL) and doubly linked lists (DLL). Users can perform essential queue operations and explore the differences between these three implementations.
 
 **Features**<br>
 **Enqueue Operation**: Add an element to the rear of the queue.<br>
