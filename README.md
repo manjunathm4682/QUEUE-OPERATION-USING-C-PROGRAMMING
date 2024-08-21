@@ -6,6 +6,7 @@ The Queue Operation project demonstrates how to manage a queue data structure in
 **Dequeue Operation**: Remove the front element from the queue.<br>
 **Display Operation**: View all elements in the queue from front to rear.<br>
 <br>**Project Files**<br>
+**C Implementation**: Contains the source code for queue operations using c.<br>
 **SLL Implementation**: Contains the source code for queue operations using a singly linked list.<br>
 **DLL Implementation**: Contains the source code for queue operations using a doubly linked list.<br>
 <br>**How It Works**<br>
